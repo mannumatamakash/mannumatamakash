@@ -10,6 +10,7 @@ BANGALORE, INDIA
 
 
 SKILLS:
+
 CATIA
 ANSYS WORKBENCH
 ANSYS FLUENT
@@ -18,6 +19,7 @@ C++ C
 MS WORD ,MY SQL,INDUSTRYAUTOMATION PROBLEMS
 
 LANGUAGES:
+
 KANNADA
 Native or Bilingual Proficiency
 HINDI
@@ -29,11 +31,13 @@ Full Professional Proficiency
 
 
 INTERESTS:
+
 READING ANIME
 SWIMMING
 LISTENING MUSIC
 
-CERTIFICATES
+CERTIFICATES: 
+
 Python Programming With Real-Time Insdustrial Applications (04/2022)
 Industrial Automation Problems & Solution Projects (09/2022)
 Industry 4.0: Automation Problems And Programming Solutions (07/2021)
